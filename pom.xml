@@ -286,5 +286,5 @@
 			</build>
 		</profile>
 	</profiles>
-	<!-- test comment to trigger automated build from Jenkins --!>
+	<!-- test comment to trigger automated build from Jenkins (2nd attempt) --!>
 </project>
